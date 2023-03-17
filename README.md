@@ -28,7 +28,7 @@ number of processes = 3
     BT    
 p1  5    
 p2  1    
-p3  4     
+p3  4      
 
 ![My_Image](RRoutput.png)
 
