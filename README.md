@@ -1,5 +1,5 @@
 # SJF and RR
-Implentation of SJF and RR in java
+Implementation of SJF and RR in java
 ## Shortest Job First (SJF)
 Shortest Job First (SJF) is an algorithm in which the process having the smallest execution time is chosen for the next execution. This scheduling method can be preemptive or non-preemptive. It significantly reduces the average waiting time for other processes awaiting execution.
 non-preemptive SJF is implemented in <a href ="https://github.com/nouranabdlsalam/SJF-RR/blob/main/OS/src/SJF.java"> SJF.java </a>  
