@@ -6,13 +6,15 @@ non-preemptive SJF is implemented in <a href ="https://github.com/nouranabdlsala
 program input: number of processes, Arrival Time and Burst Time of each process.
 program output: Scheduling order, Waiting Time and Turnaround Time of each process, Average waiting time and Average Turnaround time.  
 Test Case:  
-number of processes = 5       
+number of processes = 5   
+<pre>
     BT    AT              
 p1  6     2           
 p2  2     5       
 p3  8     1       
 p4  3     0       
-p5  4     4       
+p5  4     4  
+</pre>
 
 SJF Output:
 
@@ -24,11 +26,13 @@ RR is implemented in <a href="https://github.com/nouranabdlsalam/SJF-RR/blob/mai
 Program input: number of processes, Burst Time of each process (the program assumes that all processes have the same arrival time)
 program output: Waiting Time and Turnaround Time for each process, Average waiting time and Average turnaround time.  
 Test case:  
-number of processes = 3   
+number of processes = 3  
+<pre>
     BT    
 p1  5    
 p2  1    
 p3  4      
+</pre>
 
 ![My_Image](RRoutput.png)
 
